@@ -23,6 +23,6 @@ The project implements an order controller that handles the flow of orders throu
 
 ## Usage
 
-- Clone the repository: `git clone <repository-url>`
+- Clone the repository
 - Install dependencies: `npm install`
-- Start
+- Start: `npm start`
